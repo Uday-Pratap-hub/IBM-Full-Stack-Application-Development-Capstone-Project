@@ -44,7 +44,7 @@
 
 23))   successful implementation of CI/CD on GitHub.
 
-24))   https://akinbamigben-8000.theiadockernext-0-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai/     ( Not working find another )
+24))   https://akinbamigben-8000.theiadockernext-0-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai/  
 
 25))   of the landing page opened through your deployment
 
