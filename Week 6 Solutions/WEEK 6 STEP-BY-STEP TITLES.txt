@@ -1,0 +1,56 @@
+1))   https://github.com/digital-installer/xrwvm-fullstack_developer_capstone
+
+2))   Django server running.
+
+3))   "About us" page of the Django Application
+
+4))   "Contact us" page of the Django Application
+
+5))   "Login" page of the Django Application
+
+6))   "Logout Alert" of the Django Application
+
+7))   "Sign Up" page of the Django Application
+
+8))    Showing dealer reviews through the Express-Mongo application.
+
+9))    Showing all dealers through the Express-Mongo application endpoint.
+
+10))   Dealer details through the Express-Mongo application.
+
+11))   Showing all dealers in Kansas through the Express-Mongo application.
+
+12))   Showing the root user login on the admin page.
+
+13))   Showing the root user logged out from the admin page
+
+14))   showing car makes (after adding or populating the car makes) from the admin pa
+
+15))   showing car models (after adding or populating the car makes) from
+
+16))   showing the sentiment analyzer working through the deployed URL.
+
+17))   showing the dealers on the home page of the Django application before logging in.
+
+18))   showing the dealers on the home page of the Django application after logging in.
+
+19))   showing the dealers filtered by the State on the home page of t
+
+20))   showing the selected dealer details on the dealer page along with the reviews
+
+21))   showing the “Post Review” page after adding the details before you submit.
+
+22))   showing the review you posted. The details should match with the
+
+23))   successful implementation of CI/CD on GitHub.
+
+24))   https://akinbamigben-8000.theiadockernext-0-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai/     ( Not working find another )
+
+25))   of the landing page opened through your deployment
+
+26))   logged-in page opened through your deployment.
+
+27))   dealer details page opened through your deployment.
+
+28))   of a review added through your deployed application.
+
